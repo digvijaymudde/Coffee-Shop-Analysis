@@ -4,7 +4,7 @@
 
 This repository contains a Power BI dashboard for analyzing sales and footfall data of a coffee shop. The dashboard provides various insights, such as sales distribution, transaction quantities, and customer footfall across different store locations and times of the day.
 
-![Coffee Shop Sales Dashboard](Screenshot 2024-08-18 202127.png)
+![Coffee Shop Sales Dashboard](./Screenshot%202024-08-18%20202127.png)
 
 ## Key Features
 
@@ -21,4 +21,4 @@ This repository contains a Power BI dashboard for analyzing sales and footfall d
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/coffeeshop-sales-dashboard.git
+   git clone https://github.com/digvijaymudde/coffee-shop-analysis.git
